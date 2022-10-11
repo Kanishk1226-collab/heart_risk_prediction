@@ -12,7 +12,7 @@
 ### iii) Back-End
 * FastAPI
 
-MODULE SCREENSHOTS: 
+## MODULE SCREENSHOTS: 
 ## AUTHENTICATION PAGE
 
 ![Screenshot_2022-09-14-07-26-33-206_com example heart_rate](https://user-images.githubusercontent.com/67378252/195116615-f6435861-ab34-459d-aca3-e1f8d9de4cf9.jpg)
